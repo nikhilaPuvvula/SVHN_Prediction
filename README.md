@@ -16,3 +16,8 @@ Using CNN architecture.
 
 Train_32x32
 Test_32x32
+
+Steps to run the code
+1) Download the Datasets from above link
+2) Run Preprocessing.ipynb file - This will create CSV files required for training and testing
+3) Run either code using custom model or Resnet model and compare the results
